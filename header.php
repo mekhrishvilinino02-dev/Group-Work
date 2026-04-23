@@ -35,7 +35,7 @@
             <a href="">
               <i class="fa fa-phone" aria-hidden="true"></i>
               <span>
-                Call : +01 1234556789
+                Call : +01 123455678990
               </span>
             </a>
             <a href="">
